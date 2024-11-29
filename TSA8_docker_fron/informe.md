@@ -56,5 +56,5 @@ El objetivo principal de esta práctica es aprender a configurar y desplegar un 
 
  ![docker-imagenes 3](docker-imagenes/imagen3.png)
 
- ![docker-imagenes 4](docker-imagenes/imagen4.png)
+
 
